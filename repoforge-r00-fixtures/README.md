@@ -1,7 +1,7 @@
 # RepoForge R00 research fixture
 
 Task: RF-R00-001
-Version: 1
+Version: 2
 
 This synthetic file is for authorized GitHub Code research.
 
@@ -10,5 +10,5 @@ This synthetic file is for authorized GitHub Code research.
 | Markdown | preview |
 
 ```text
-fixture-only
+fixture-only-updated
 ```
